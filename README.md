@@ -22,6 +22,6 @@ A new "Edit environment variable" window will pop up. Click "New" and paste in t
 
 Download and run the `pss.bat` file.
 
-NOTE: the file won't work without the Environment Vairables!!
+NOTE: the file won't work without the Environment Variables!!
 
 
