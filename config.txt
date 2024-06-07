@@ -1,1 +1,1 @@
-DataFolderPath=NotSpecified
+DataFolderPath=null
